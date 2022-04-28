@@ -1,0 +1,62 @@
+header{
+    text-align: center;
+    font-size: 50px;
+    font: Raleway, medium;
+}
+
+.imgIguana{
+    width: 100%; height: 100%;
+}
+
+.textoIguana{
+    width: 40%;
+    margin-left: 10%;
+    text-align: justify;
+    display: inline-block;
+    font-size: 16px;
+    font: Raleway, lighter;
+}
+
+.imgIguana2{
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.carHead{
+    text-align: center;
+    font-size: 40px;
+}
+
+.photos{
+    display: inline-block;
+    margin-left: 25%;
+    font-weight: 10%;  
+}
+.photos1{
+    display: inline-block;
+    margin-left: 15%;
+}
+
+.footer{
+    text-align: center;
+    font-size: 20px;
+    background-color: #1E1A13; opacity: 94%;
+    padding: 0.5% 0% 0.5% 0%;
+    margin-top: 2%;
+}
+
+.capturas{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.background{
+    background-color: black;
+    color: white;
+}
+
+#caracteristicas{
+    background-color: #1E1A13; opacity: 97%;
+    padding: 1% 0% 1% 0%;
+    margin-top: 2%;
+}
